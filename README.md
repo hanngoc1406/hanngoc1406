@@ -1,13 +1,8 @@
 <h1 align="center"> Hi, I'm Phan Anh Duc 👋 </h1>
-<h3>🌱 I’m currently learning iOS programming </h3>
+<h3 align="center">🌱 I’m currently learning iOS programming </h3>
 
 - 📫 How to reach me **ducphan397@gmail.com**
 
-<p align="center">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=hanngoc1406&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
-        alt="hanngoc1406"/>
-</p>
 <!--
 **hanngoc1406/hanngoc1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
