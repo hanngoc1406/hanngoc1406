@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Phan Anh Duc 👋 </h1>
-<h3 align="center">🌱 I’m currently learning iOS programming </h3>
+<h3 align="center">🌱 iOS Developer </h3>
 
 - 📫 How to reach me **ducphan397@gmail.com**
 
