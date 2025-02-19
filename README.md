@@ -3,7 +3,11 @@
 
 - 📫 How to reach me **ducphan397@gmail.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanngoc1406#center)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ducphan397" />
+  </a>
+</p>
 
 <!--
 **hanngoc1406/hanngoc1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
