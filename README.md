@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ducphan397" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ducphan397&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true" />
   </a>
 </p>
 
